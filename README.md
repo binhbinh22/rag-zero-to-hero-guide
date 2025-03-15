@@ -1,4 +1,4 @@
-# 🚀🧑🏽‍🎓 RAG Zero to Hero Guide 👩🏽‍🎓🚀
+<h1 align ="center"> 👩🏼‍💻 RAG Zero to Hero Guide </h1>
 This repository serves as a comprehensive guide to learn RAG from basics to advanced. 
 <p align="center">
   <a href="https://www.linkedin.com/in/kalyanksnlp/">
@@ -31,7 +31,7 @@ This repository serves as a comprehensive guide to learn RAG from basics to adva
 | RAG from Scratch | RAG implementation from scratch without any frameworks. | [Link](RAG%20Basics/notebooks/RAG_from_Scratch.ipynb)
 | RAG with LangChain | RAG implementation using LangChain framework. | [Link](RAG%20Basics/notebooks/RAG_with_LangChain.ipynb)
 | Website RAG | RAG over a website implemented using LangChain framework. | [Link](RAG%20Basics/notebooks/Web_Page_RAG.ipynb)
-| YouTueb Video RAG | RAG over a YouTube video transcript implemented using LangChain framework. | [Link](RAG%20Basics/notebooks/YouTube_Video_RAG.ipynb)
+| YouTube Video RAG | RAG over a YouTube video transcript implemented using LangChain framework. | [Link](RAG%20Basics/notebooks/YouTube_Video_RAG.ipynb)
 | Agentic RAG | Agentic RAG system implemented using CrewAI framework. | [Link](RAG%20Basics/notebooks/AgenticRAG_with_CrewAI.ipynb)
 
 
