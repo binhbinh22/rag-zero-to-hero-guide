@@ -16,7 +16,7 @@ This repository serves as a comprehensive guide to learn RAG from basics to adva
 ## Quick links
 ||||
 |---|---|---|
-| [🧱 RAG Basics](#🚀-rag-basics) | [🚀 RAG Toolkit](#🚀-rag-toolkit) | [🩸RAG Survey Papers](#🩸-rag-survey-papers) | 
+| [🧱 RAG Basics](#🚀-rag-basics) | [🚀 RAG Toolkit](#🚀-rag-toolkit) | [🩸 RAG Survey Papers](#🩸-rag-survey-papers) | 
 
 ## 🚀 RAG Toolkit
 
@@ -108,7 +108,7 @@ This repository serves as a comprehensive guide to learn RAG from basics to adva
 | Giskard | Open-Source Evaluation & Testing for ML & LLM systems. | [Link](https://github.com/Giskard-AI/giskard) |
 | DeepEval | The LLM (RAG) Evaluation Framework. | [Link](https://github.com/confident-ai/deepeval) |
 
-## 🩸RAG Survey Papers
+## 🩸 RAG Survey Papers
 
 | Paper | Category | Link |
 |--------------------------------|------------------|------|
