@@ -16,9 +16,20 @@ This repository serves as a comprehensive guide to learn RAG from basics to adva
 ## Quick links
 ||||
 |---|---|---|
-| [🧱 RAG Basics](#🚀-rag-basics) | [🚀 RAG Toolkit](#🚀-rag-toolkit) | [🩸 RAG Survey Papers](#🩸-rag-survey-papers) | 
+| [🧱 RAG Basics Course](#rag-basics-course) | [🚀 RAG Toolkit](#rag-toolkit) | [🩸 RAG Survey Papers](#rag-survey-papers) | 
 
-## 🚀 RAG Toolkit
+## RAG Basics Course
+| Topic | Description | Link |
+|---------|-------------|------|
+| What is RAG? | Explain RAG in with a simple example.  | [Link](notebooks/What_is_RAG.md)|
+| Why RAG? | Explain the drawbacks of LLMs and how RAG addresses them.|  [Link](notebooks/Why_RAG.md)|
+| How does RAG work? | Explain the different steps in RAG - Indexing, Retrieval, Augmentation and Generation.|  [Link](notebooks/How_does_RAG_work.md)|
+| RAG Benefits and Challenges | Discusses the benefits and challenges of RAG. |  [Link](notebooks/RAG_Benefits_and_Challenges.md)|
+| RAG Must Know Terms| Definitions of RAG must know terms. |  [Link](notebooks/RAG_must_know_terms.md)|
+| RAG Roadmap | Detailed roadmap to learn RAG from basics to advanced. |  [Link](notebooks/RAG_Roadmap.md)|
+| RAG Developer's Stack | Covers the various libraries used to build RAG systems | [Link](notebooks/RAG_Developer_Stack.md)|
+
+## RAG Toolkit
 
 <p align = "center"> <b> 🔴Frameworks🔴 </b> </p>
 
@@ -108,7 +119,7 @@ This repository serves as a comprehensive guide to learn RAG from basics to adva
 | Giskard | Open-Source Evaluation & Testing for ML & LLM systems. | [Link](https://github.com/Giskard-AI/giskard) |
 | DeepEval | The LLM (RAG) Evaluation Framework. | [Link](https://github.com/confident-ai/deepeval) |
 
-## 🩸 RAG Survey Papers
+## RAG Survey Papers
 
 | Paper | Category | Link |
 |--------------------------------|------------------|------|
