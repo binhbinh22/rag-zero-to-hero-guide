@@ -108,5 +108,22 @@ This repository serves as a comprehensive guide to learn RAG from basics to adva
 | Giskard | Open-Source Evaluation & Testing for ML & LLM systems. | [Link](https://github.com/Giskard-AI/giskard) |
 | DeepEval | The LLM (RAG) Evaluation Framework. | [Link](https://github.com/confident-ai/deepeval) |
 
+## 🩸RAG Survey Papers
+
+| Paper | Category | Link |
+|--------------------------------|------------------|------|
+| Retrieval-Augmented Generation for Large Language Models: A Survey | General | [Link](https://arxiv.org/abs/2312.10997) |
+| Retrieval-Augmented Generation for Natural Language Processing: A Survey | General | [Link](https://arxiv.org/abs/2407.13193) |
+| A Comprehensive Survey of Retrieval-Augmented Generation (RAG): Evolution, Current Landscape and Future Directions | General | [Link](https://arxiv.org/abs/2410.12837) |
+| Retrieval-Augmented Generation for AI-Generated Content: A Survey | General | [Link](https://arxiv.org/abs/2402.19473) |
+| A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models | General | [Link](https://arxiv.org/abs/2405.06211) |
+| A Survey on Retrieval-Augmented Text Generation for Large Language Models | General | [Link](https://arxiv.org/abs/2404.10981) |
+| Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely | General | [Link](https://arxiv.org/abs/2409.14924) |
+| Graph Retrieval-Augmented Generation: A Survey | Graph RAG | [Link](https://arxiv.org/abs/2408.08921) |
+| Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG | Agentic RAG | [Link](https://arxiv.org/abs/2501.09136) |
+| Evaluation of Retrieval-Augmented Generation: A Survey | Evaluation | [Link](https://arxiv.org/abs/2405.07437) |
+| Searching for Best Practices in Retrieval-Augmented Generation | RAG Best Practices | [Link](https://arxiv.org/abs/2407.01219) |
+
+
 
 
