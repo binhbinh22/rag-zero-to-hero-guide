@@ -28,6 +28,12 @@ This repository serves as a comprehensive guide to learn RAG from basics to adva
 | RAG Must Know Terms| Definitions of RAG must know terms. |  [Link](RAG%20Basics/RAG_must_know_terms.md)|
 | RAG Roadmap | Detailed roadmap to learn RAG from basics to advanced. |  [Link](RAG%20Basics/RAG_Roadmap.md)|
 | RAG Developer's Stack | Covers the various libraries used to build RAG systems | [Link](RAG%20Basics/RAG_Developer_Stack.md)|
+| RAG from Scratch | RAG implementation from scratch without any frameworks. | [Link](RAG%20Basics/notebooks/RAG_from_Scratch.ipynb)
+| RAG with LangChain | RAG implementation using LangChain framework. | [Link](RAG%20Basics/notebooks/RAG_with_LangChain.ipynb)
+| Website RAG | RAG over a website implemented using LangChain framework. | [Link](RAG%20Basics/notebooks/Web_Page_RAG.ipynb)
+| YouTueb Video RAG | RAG over a YouTube video transcript implemented using LangChain framework. | [Link](RAG%20Basics/notebooks/YouTube_Video_RAG.ipynb)
+| Agentic RAG | Agentic RAG system implemented using CrewAI framework. | [Link](RAG%20Basics/notebooks/AgenticRAG_with_CrewAI.ipynb)
+
 
 ## RAG Toolkit
 
