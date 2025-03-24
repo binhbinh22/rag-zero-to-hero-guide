@@ -125,7 +125,7 @@ This repository serves as a comprehensive guide to learn RAG from basics to adva
 | Giskard | Open-Source Evaluation & Testing for ML & LLM systems. | [Link](https://github.com/Giskard-AI/giskard) |
 | DeepEval | The LLM (RAG) Evaluation Framework. | [Link](https://github.com/confident-ai/deepeval) |
 
-## RAG Survey Papers
+## RAG Survey Papers 
 
 | Paper | Category | Link |
 |--------------------------------|------------------|------|
@@ -140,6 +140,9 @@ This repository serves as a comprehensive guide to learn RAG from basics to adva
 | Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG | Agentic RAG | [Link](https://arxiv.org/abs/2501.09136) |
 | Evaluation of Retrieval-Augmented Generation: A Survey | Evaluation | [Link](https://arxiv.org/abs/2405.07437) |
 | Searching for Best Practices in Retrieval-Augmented Generation | RAG Best Practices | [Link](https://arxiv.org/abs/2407.01219) |
+|LightRAG: Simple and Fast Retrieval-Augmented Generation| graphRAG | [Link](https://arxiv.org/abs/2410.05779) | 
+|Empowering GraphRAG with Knowledge Filtering and Integration | graphRAG |[Link](https://arxiv.org/html/2503.13804v1) |
+
 
 
 
